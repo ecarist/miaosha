@@ -1,2 +1,2 @@
 # miaosha
-SpringBoot构建电商基础秒杀项目
+SpringBoot构建基础电商秒杀项目
